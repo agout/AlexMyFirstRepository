@@ -1,2 +1,3 @@
 # AlexMyFirstRepository
-changing the file in the first branch of git repo
+
+"adding some text" and now "changing the file in the first branch of git repo"
